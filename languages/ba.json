@@ -1,0 +1,81 @@
+{
+	"Visitor": "Posjetilac",
+	"Select your account": "Izaberite račun",
+	"You need a profile for this feature": "Trebate imati profil za ovu opciju",
+
+	"Follow username mentions": "Pratite spomenuta korisnička imena",
+	"Follow comments on your posts": "Pratite komentare na vašim objavama",
+	"Follow new followers": "Pratite nove pratitelje",
+
+	"Follow": "Pratite",
+	"Unfollow": "Prestanite pratiti",
+	"Help distribute this user's images": "Pomozite distribuirati slike od ovog korisnika",
+	"Following": "Pratim",
+	"Activity feed": "Dešavanja",
+	"Show more...": "Prikaži više...",
+
+	" started following ": " počeo pratiti: ",
+	" commented on ": " komentirao na ",
+	" liked ": " lajkovao ",
+	"'s ": " ",
+	"_(post, like post)": "Sviđa mi se",
+	"_(post, comment post)": "Komentariši",
+
+	"Cancel": "Poništi",
+	"Save": "Spasi",
+	"Delete": "Izbriši",
+
+	"User's profile site not loaded to your client yet.": "Korisnikova profilna stranica se još nije učitala na vaš klijent.",
+	"Download user's site": "Preuzmi korisnikovu stranicu",
+
+	"Browse all \\u203A": "Pretraži sve \\u203A",
+	"New users": "Novi korisnici",
+	"Suggested users": "Preporučeni korisnici",
+
+	"Create new profile": "Napravite novi profil",
+	"Creating new profile...": "Pravim novi profil...",
+	"Checking user on selected hub...": "Provjeravam korisnika na odabranom habu...",
+	"User \" + Page.site_info.cert_user_id + \" already exists on this hub": "A \" + Page.site_info.cert_user_id + \" korisik već postoji na ovom habu",
+	"Select ID...": "Izaberite ID",
+	"Seeded HUBs": "Izaberite Habove",
+	"Available HUBs": "Dostupni habovi",
+	"(With this you choose where is your profile stored. There is no difference on content and you will able to reach all users from any hub)":
+	"(Sa ovim kontrolišete gdje će se vaš profil spremiti. Nema razlike na sadržaju i svi korisnici će vam biti dostupni iz bilo kojeg haba)",
+
+	"Random ZeroNet user": "Random ZeroNet korisnik",
+	"Hello ZeroMe!": "Zdravo ZeroMe!",
+
+	"Loading...\\nShow image": "Učitavanje...\\nShow image",
+	"Help distribute this user's new images": "Pomozite distribuirati nove slike ovog korisnika",
+	"Delete image": "Izbriši sliku",
+	"Show image": "Pokaži sliku",
+	"'s new images": " novih slika",
+
+	"Comment": "Komentar",
+	"Add your comment": "Dodaj svoj komentar",
+	"Reply": "Odgovori",
+
+	"Everyone": "Svi",
+	"Followed users": "Praćenih korisnika",
+	"Show more posts...": "Pokaži više objava...",
+	"Show more comments...": "Prikaži više komentara...",
+	"No posts yet": "Još nema objava",
+	"Let's follow some users!": "Hajmo pratiti neke korisnike!",
+
+	"Select user to post new content": "Izaberite korisnika da objavi novi sadržaj",
+	"Write something...": "Napišite nešto...",
+	"Submit new post": "Objavi novi sadržaj",
+	"Invalid image, only jpg format supported": "Samo je jpg format podržan",
+
+	"Follow in newsfeed": "Pratite na stranici",
+
+	"New users in ZeroMe": "Novi korisnici na ZeroMe-u",
+	"Total: ": "Ukupno: ",
+	" registered users": " registrirano korisnika",
+
+	" minutes ago": " prije nekoliko minuta",
+	" hours ago": " prije nekoliko sati",
+	" days ago": " prije nekoliko dana",
+	"on ": "na",
+	"Just now": "Upravo sada"
+}
